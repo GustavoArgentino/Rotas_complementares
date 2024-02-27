@@ -31,7 +31,7 @@ function Gabriel({ navigation }) {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        Oi Gabriel! Que tal um desafio divertido? Imagine que você está em uma fazenda ensolarada, cercado por galinhas animadas. Agora, você consegue imitar o som e os movimentos engraçados de uma galinha? Mostre sua criatividade e faça todo mundo rir!
+      Gabriel é um amigo de confiança porque sempre demonstrou lealdade e chupou laranja comigo. Mas agora, você consegue imitar o som e os movimentos engraçados de uma galinha?
       </Text>
     </View>
   );
@@ -41,7 +41,7 @@ function Victor({ navigation }) {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-        Olá Victor! Vamos embarcar em uma aventura imaginária pelo céu azul? Feche os olhos e sinta o vento soprando enquanto você pilota um avião veloz! Faça os sons característicos do motor e incline suas asas imaginárias. Você consegue nos transportar para lugares distantes com sua imaginação?
+      Victor é um amigo de confiança porque sempre demonstrou lealdade e chupou laranja comigo. Mas agoras vamos embarcar em uma aventura imaginária, feche os olhos e sinta o vento soprando enquanto você pilota um avião veloz! Faça os sons característicos do motor e incline suas asas imaginárias.
       </Text>
     </View>
   );
