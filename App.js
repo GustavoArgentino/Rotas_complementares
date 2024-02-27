@@ -41,7 +41,7 @@ function Victor({ navigation }) {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>
-      Victor é um amigo de confiança porque sempre demonstrou lealdade e chupou laranja comigo. Mas agoras vamos embarcar em uma aventura imaginária, feche os olhos e sinta o vento soprando enquanto você pilota um avião veloz! Faça os sons característicos do motor e incline suas asas imaginárias.
+      Victor é um amigo de confiança porque sempre demonstrou lealdade e chupou laranja comigo. Mas agora, vamos embarcar em uma aventura imaginária, feche os olhos e sinta o vento soprando enquanto você pilota um avião veloz! Faça os sons característicos do motor e incline suas asas imaginárias.
       </Text>
     </View>
   );
